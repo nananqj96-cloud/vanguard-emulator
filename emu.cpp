@@ -1,5 +1,6 @@
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
+#include <winioctl.h>
 #include <winhttp.h>
 #include <TlHelp32.h>
 #include <vector>
